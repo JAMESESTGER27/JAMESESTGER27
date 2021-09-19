@@ -5,7 +5,7 @@
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=JAMESESTGER27&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
 ```javascript
 const james = {
-  pronouns: "her",
+  pronouns: "he",
   code: [Javascript, Typescript, HTML, CSS, Python, Java],
   tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
   architecture: ["microservices", "event-driven", "design system pattern"],
@@ -22,7 +22,6 @@ const james = {
 
 ### - Learning :
 - ✨ Reactjs ⚛
-- ✨ Angular
 - ✨ Nodejs
 </br>
 </br>
