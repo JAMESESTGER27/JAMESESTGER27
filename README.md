@@ -39,6 +39,7 @@ const james = {
 </br>
 </br>
 <hr/>
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=JAMESESTGER27&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JAMESESTGER27&hide=TeX&layout=compact)
 
