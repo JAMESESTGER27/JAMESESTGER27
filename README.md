@@ -41,9 +41,14 @@ const james = {
 </br>
 </br>
 </br>
+## GitHub Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=JAMESESTGER27&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JAMESESTGER27&hide=TeX&layout=compact)
+| Most Used Languages | GitHub Stats |
+| ------------------- | ------------ |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JAMESESTGER27&show_icons=true&hide_title=true&hide_border=true&bg_color=0d1117&text_color=f0f6fc&layout=compact) | ![Stats](https://github-readme-stats.vercel.app/api/?username=JAMESESTGER27_icons=true&hide_title=true&hide_border=true&bg_color=0d1117&text_color=f0f6fc) |
+
+<!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=JAMESESTGER27&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JAMESESTGER27&hide=TeX&layout=compact) -->
 
 <p align="center">
   <strong><a href="/">Official Website</a></strong> |
