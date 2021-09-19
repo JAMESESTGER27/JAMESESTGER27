@@ -18,7 +18,7 @@ const james = {
 
 ### - I'm 24 years old -  Developer web from Peru 🤓.
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://noticierouniversal.com/wp-content/uploads/2017/11/giphy-6.giff">
+<img hight="400" width="500" alt="GIF" align="right" src="https://noticierouniversal.com/wp-content/uploads/2017/11/giphy-6.gif">
 
 ### - Learning :
 - ✨ Reactjs ⚛
@@ -26,11 +26,6 @@ const james = {
 </br>
 </br>
 </br>
-
-```text
-JavaScript     29 mins             ███░░░░░░░     37.85%
-HTML           26 mins             ███░░░░░░░     33.7%
-```
 
 <p align="center">
   <strong><a href="/">Official Website</a></strong> |
