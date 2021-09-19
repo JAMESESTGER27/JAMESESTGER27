@@ -38,9 +38,10 @@ const james = {
 </br>
 </br>
 </br>
+<hr/>
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=JAMESESTGER27&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JAMESESTGER27&hide=TeX&layout=compact)
-<hr/>
+
 <p align="center">
   <strong><a href="/">Official Website</a></strong> |
   <strong><a href="/https://www.linkedin.com/in/james-capcha-flores-58728616a/">LinkedIn</a></strong> |
