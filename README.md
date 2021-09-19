@@ -20,7 +20,7 @@ const james = {
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://noticierouniversal.com/wp-content/uploads/2017/11/giphy-6.gif">
 
-### - Learning :
+### - skills :
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
