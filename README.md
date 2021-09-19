@@ -2,6 +2,7 @@
 <h1 align="center">Welcome to my GitHub. A pleasure to meet you.🤓</h1>
 <hr/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JAMESESTGER27&show_icons=true&theme=cobalt)
+
 # About ME 💬 :
 
 ### - I'm 24 years old -  Developer web from Peru 🤓.
