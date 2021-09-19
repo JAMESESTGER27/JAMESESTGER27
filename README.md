@@ -10,16 +10,12 @@
 
 ### - I'm 24 years old -  Developer web from Peru 🤓.
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
+<img hight="400" width="500" alt="GIF" align="right" src="https://noticierouniversal.com/wp-content/uploads/2017/11/giphy-6.giff">
 
 ### - Learning :
 - ✨ Reactjs ⚛
 - ✨ Angular
 - ✨ Nodejs
-### - Hobbies : 
-- ✨ Gaming Addict
-- ✨ Watching Anime
-- ✨ Reading Light Novels
 </br>
 </br>
 </br>
