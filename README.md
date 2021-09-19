@@ -7,3 +7,7 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JAMESESTGER27&show_icons=true&theme=cobalt)
+<p align="center">
+  <strong><a href="/">Official Website</a></strong> |
+  <strong><a href="/">LinkedIn</a></strong> |
+</p>
