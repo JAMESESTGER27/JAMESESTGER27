@@ -26,6 +26,12 @@ const james = {
 </br>
 </br>
 </br>
+
+```text
+JavaScript     29 mins             ███░░░░░░░     37.85%
+HTML           26 mins             ███░░░░░░░     33.7%
+```
+
 <p align="center">
   <strong><a href="/">Official Website</a></strong> |
   <strong><a href="/">LinkedIn</a></strong> |
