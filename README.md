@@ -19,8 +19,7 @@ const james = {
 ### - I'm 24 years old -  Developer web from Peru 🤓.
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://noticierouniversal.com/wp-content/uploads/2017/11/giphy-6.gif">
-</br>
-</br>
+
 ### - Learning :
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
@@ -36,11 +35,13 @@ const james = {
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
 </br>
 </br>
 </br>
 </br>
 </br>
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=JAMESESTGER27&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JAMESESTGER27&hide=TeX&layout=compact)
 
