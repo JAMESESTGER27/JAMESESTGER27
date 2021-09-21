@@ -52,5 +52,5 @@ const james = {
 
 <p align="center">
   <strong><a href="/">Official Website</a></strong> |
-  <strong><a href="/https://www.linkedin.com/in/james-capcha-flores-58728616a/">LinkedIn</a></strong> |
+  <strong><a href="https://www.linkedin.com/in/james-capcha-flores-58728616a/">LinkedIn</a></strong> |
 </p>
