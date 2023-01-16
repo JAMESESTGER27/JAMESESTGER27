@@ -16,7 +16,7 @@ const james = {
 
 # About ME :
 
-### - I'm 24 years old -  Developer web from Peru 🤓.
+### - Developer web from Peru 🤓.
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://noticierouniversal.com/wp-content/uploads/2017/11/giphy-6.gif">
 
